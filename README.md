@@ -28,5 +28,7 @@ The goal of this assignment was to create a back end for an ecommerce site using
 
 - GitHub Link: https://github.com/veryjohn1991/john-object-relation-mapping-work.git 
 
+-screencastify video link; https://drive.google.com/file/d/1eJGS75EX5qLnxn9WV9Bn5tNXnGVkEaMF/view 
+
 
 Note: Got assistance from one of my Friend and used chatgpt and google for some questions.
